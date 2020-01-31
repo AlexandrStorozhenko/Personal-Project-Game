@@ -1,0 +1,5 @@
+﻿  SMFL_Project.cpp
+c:\users\alex\desktop\personal project\smfl_project\smfl_project.cpp(21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alex\desktop\personal project\smfl_project\smfl_project.cpp(188): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\alex\desktop\personal project\smfl_project\smfl_project.cpp(232): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SMFL_Project.vcxproj -> C:\Users\alex\Desktop\Personal Project\Debug\SMFL_Project.exe
